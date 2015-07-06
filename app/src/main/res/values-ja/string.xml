@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"トゥイッター "</string>
+    <string name="hello_world">おはよう世界</string>
+    <string name="action_settings">設定</string>
+    <string name="empty">empty</string>
+</resources>
